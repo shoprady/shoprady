@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/devxb/gitanimals">
-  <img
-    src="https://render.gitanimals.org/lines/shoprady?pet-id=653059822314572530"
-    width="424"
-    height="242"
-  />
+<img
+  src="https://render.gitanimals.org/farms/shoprady"
+  width="600"
+  height="300"
+/>
 </a>
